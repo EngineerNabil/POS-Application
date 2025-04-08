@@ -38,14 +38,14 @@ Built by:
 - Database:<br>
 * Oracle Database<br>
 
-<h3 align="left">Follow Me:</h3>
+<h2 align="left">Follow Me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed nabil mohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100090915283871&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed nabil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohamed__nabiill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed__nabiill" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">  
   <a href="https://www.figma.com/" 
   target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
