@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nabil</h1>
 <h3 align="center">A Software developer</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed nabil mohamed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090915283871&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed nabil" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohamed__nabiill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed__nabiill" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://www.figma.com/" 
-  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"
-                                                                        height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
 <h2>💼 Point of Sale (POS) Application</h2>
 
 <p>
@@ -52,6 +38,21 @@ Built by:
 - Database:<br>
 * Oracle Database<br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed nabil mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090915283871&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed nabil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohamed__nabiill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed__nabiill" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  
+  <a href="https://www.figma.com/" 
+  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"
+                                                                        height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+</p>
 <h2>Contact</h2>
 <B>Mohamed Nabil</B> <br> <a href = "https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6">LinkedIn</a> <br> <a href = "mohamednabil5011@gmail.com">mohamednabil5011@gmail.com</a>
 
