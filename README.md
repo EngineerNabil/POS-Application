@@ -38,7 +38,7 @@ Built by:
 - Database:<br>
 * Oracle Database<br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed nabil mohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100090915283871&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed nabil" height="30" width="40" /></a>
